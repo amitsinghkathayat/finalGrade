@@ -1,3 +1,10 @@
+/*
+ *  index.ts
+ *  Project: Did I pass?
+ *
+ *  Author: Amit Singh Kathayat
+ *  Created on: Feb 3, 2023
+ */
 import express, { Express } from 'express';
 import {
   getAllStudents,
